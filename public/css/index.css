@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+marquee{
+    font-size: 25px;
+}
+
+.mid{
+    display: flex;
+    justify-content: center;
+}
+.mid blockquote p{
+    font-size: 20px;
+}
+.container{
+    padding-top: 5%;
+}
+.tulisan{
+    text-align: center;
+}
+.foto{
+    padding-left: 80%;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.selamat{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
